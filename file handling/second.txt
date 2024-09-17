@@ -1,0 +1,1 @@
+['hello','24','boys','how r u guys']hello24boyshow r u guys29 M consumes X units of power, while N consumes Y units of power.Your task is to find and return an integer value representing the minimum number of units of power Tom's machines will consume to serve P customers. He can run any combination of M and N.
